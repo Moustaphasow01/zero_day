@@ -1,1 +1,1 @@
-This is the git directory
+hello this i s my repository git
